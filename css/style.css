@@ -1,3 +1,7 @@
+/* a is selector */
 a {
+    /* this is declarations */
     color: rgb(129, 60, 219);
+    text-decoration: none;
+    font-size: 25px;
 }
